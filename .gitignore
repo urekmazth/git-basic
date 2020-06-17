@@ -3,3 +3,6 @@
 
 # ignoring spoiler.txt
 spoiler.txt
+
+# python 2048 game
+2048-python/
