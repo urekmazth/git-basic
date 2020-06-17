@@ -1,0 +1,5 @@
+# ignoring all jpg files
+*.jpg
+
+# ignoring spoiler.txt
+spoiler.txt
