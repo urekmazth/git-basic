@@ -4,5 +4,9 @@
 # ignoring spoiler.txt
 spoiler.txt
 
+<<<<<<< HEAD
 # python 2048 game
+=======
+# python game
+>>>>>>> arc-wanokuni
 2048-python/
